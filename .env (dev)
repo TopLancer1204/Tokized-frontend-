@@ -1,0 +1,4 @@
+REACT_APP_API_ENDPOINT=https://tokized.immo
+REACT_APP_COINBASE_API_ENDPOINT=https://api.commerce.coinbase.com
+REACT_APP_IDCERIFICATION_API_ENDPOINT=https://withpersona.com/api/v1/inquiries
+REACT_APP_HELLOSIGN_URL_ENDPOINT=https://api.hellosign.com/v3
